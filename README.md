@@ -19,6 +19,7 @@ me apaixona profundamente. No entanto, também mantenho um entusiasmo genuíno p
 ## Status
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bilbocodes&theme=transparent&bg_color=000&border_color=FFFFFFFF&show_icons=true&icon_color=FFFFFFFF&title_color=FFFFFFFF&text_color=FFFFFFFF)
 
+
 ## Linguagens de Programação
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=white) 
@@ -47,4 +48,5 @@ me apaixona profundamente. No entanto, também mantenho um entusiasmo genuíno p
 </details>
 
 ## Repositórios
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=bilbocodes&repo=dio-lab-open-source&bg_color=000&border_color=FFFFFFFF&show_icons=true&icon_color=FFFFFFFF&title_color=FFFFFFFF&text_color=FFFFFFFF)](https://github.com/bilbocodes/dio-lab-open-source)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=bilbocodes&repo=pokedex-dio-pratica&bg_color=000&border_color=FFFFFFFF&show_icons=true&icon_color=FFFFFFFF&title_color=FFFFFFFF&text_color=FFFFFFFF)](https://github.com/bilbocodes/pokedex-dio-pratica)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=bilbocodes&repo=projeto-dev-em-dobro&bg_color=000&border_color=FFFFFFFF&show_icons=true&icon_color=FFFFFFFF&title_color=FFFFFFFF&text_color=FFFFFFFF)](https://github.com/bilbocodes/projeto-dev-em-dobro)
