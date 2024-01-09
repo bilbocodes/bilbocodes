@@ -1,11 +1,10 @@
 [![Olá! Bem vindo ao meu perfil](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BBBBBB&width=435&lines=Ol%C3%A1!+Bem+vindo+ao+meu+perfil;Confira+a+minha+jornada!)](https://git.io/typing-svg)
 
 ## Sobre mim
-Sou um estudante dedicado em constante busca por conhecimento. Meu principal objetivo é me tornar um desenvolvedor de jogos, uma área que 
-me apaixona profundamente. No entanto, também mantenho um entusiasmo genuíno por diversas outras vertentes da programação.
+Eu sou um estudante dedicado que está sempre em busca de conhecimento. Estou em busca de uma linguagem para me especializar, mas estou disposto a explorar e aprender mais sobre outras linguagens ou áreas tecnológicas.
 
 ### Algumas informações sobre mim
-- 💻 Atualmente estudando Desenvolvimento Web e de Jogos.
+- 💻 Atualmente estudando Análise e Desenvolvimento de sistemas com foco em Back-End.
 - 🧑 Meus pronomes são ele/dele.
 - 📚 Gosto de ler e jogar no tempo livre.
 
@@ -22,7 +21,12 @@ me apaixona profundamente. No entanto, também mantenho um entusiasmo genuíno p
 
 ## Linguagens de Programação
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=white)
+![Java](https://img.shields.io/badge/java-000.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-000?style=for-the-badge&logo=dart&logoColor=white)
+
+## Framework
+![Flutter](https://img.shields.io/badge/Flutter-000?style=for-the-badge&logo=flutter&logoColor=white)
 
 ## Linguagens de Marcação e Estilo
 
@@ -30,9 +34,10 @@ me apaixona profundamente. No entanto, também mantenho um entusiasmo genuíno p
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=white)
 
-## Jogos
+## Design e outros
 ![Unity](https://img.shields.io/badge/Unity-000?style=for-the-badge&logo=unity&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-000.svg?style=for-the-badge&logo=blender&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma&logoColor=white)
 
 <details>
 
@@ -40,10 +45,7 @@ me apaixona profundamente. No entanto, também mantenho um entusiasmo genuíno p
 
 ### Pretendo estudar
 
-![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=white)
-![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-000?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-000?style=for-the-badge&logo=kotlin&logoColor=white)
 
 </details>
 
