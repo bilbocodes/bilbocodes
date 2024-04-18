@@ -51,4 +51,4 @@ Eu sou um estudante dedicado que está sempre em busca de conhecimento. Estou em
 
 ## Repositórios
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=bilbocodes&repo=projeto-dev-em-dobro&bg_color=000&border_color=FFFFFFFF&show_icons=true&icon_color=FFFFFFFF&title_color=FFFFFFFF&text_color=FFFFFFFF)](https://github.com/bilbocodes/projeto-dev-em-dobro) 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=bilbocodes&repo=dio-lab-open-source&bg_color=000&border_color=FFFFFFFF&show_icons=true&icon_color=FFFFFFFF&title_color=FFFFFFFF&text_color=FFFFFFFF)](https://github.com/bilbocodes/dio-lab-open-source)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=bilbocodes&repo=dio-lab-open-source&bg_color=000&border_color=FFFFFFFF&show_icons=true&icon_color=FFFFFFFF&title_color=FFFFFFFF&text_color=FFFFFFFF)](https://github.com/bilbocodes/jogo-numero-secreto )
