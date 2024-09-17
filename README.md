@@ -4,14 +4,13 @@
 Eu sou um estudante dedicado que está sempre em busca de conhecimento. Estou em busca de uma linguagem para me especializar, mas estou disposto a explorar e aprender mais sobre outras linguagens ou áreas tecnológicas.
 
 ### Algumas informações sobre mim
-- 💻 Atualmente estudando Análise e Desenvolvimento de sistemas com foco em Back-End.
+- 💻 Atualmente estudando Análise e Desenvolvimento de sistemas e me aventurando em diversas áreas da tecnologia..
 - 🧑 Meus pronomes são ele/dele.
 - 📚 Gosto de ler e jogar no tempo livre.
 
 ### Onde me achar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luka-andrade/) 
-[![Twitter](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/bilbocodes) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luka-andrade/)  
 [![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/836591120140992552)
 [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=white)](luka.andrade88@gmail.com)
 
