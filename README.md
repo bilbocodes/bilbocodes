@@ -4,7 +4,7 @@
 Eu sou um estudante dedicado que está sempre em busca de conhecimento. Estou em busca de uma linguagem para me especializar, mas estou disposto a explorar e aprender mais sobre outras linguagens ou áreas tecnológicas.
 
 ### Algumas informações sobre mim
-- 💻 Atualmente estudando Análise e Desenvolvimento de sistemas e me aventurando em diversas áreas da tecnologia..
+- 💻 Atualmente estudando Análise e Desenvolvimento de sistemas e me aventurando em diversas áreas da tecnologia.
 - 🧑 Meus pronomes são ele/dele.
 - 📚 Gosto de ler e jogar no tempo livre.
 
